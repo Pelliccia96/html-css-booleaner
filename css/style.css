@@ -54,3 +54,22 @@ thead {
 .tr-color {
     background-color: #b1e2ff;
 }
+
+.bg-footer {
+    color: white;
+    width: 250px;
+    height: 180px;
+    background-repeat: no-repeat;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.monitor {
+    background-image: url(../img/monitor.jpg);
+}
+
+.graph {
+    background-image: url(../img/graph.jpg);
+    margin-bottom: 50px;
+}
