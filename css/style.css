@@ -37,3 +37,20 @@ h1 {
 .text-img {
     color: #000000c9;
 }
+
+main {
+    margin-top: 20px;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+thead {
+    background-color: #54a0ff;
+    color: white;
+}
+
+.tr-color {
+    background-color: #b1e2ff;
+}
