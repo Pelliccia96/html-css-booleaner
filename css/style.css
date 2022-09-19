@@ -18,4 +18,22 @@ body {
 
 h1 {
     font-size: 60px;
+    margin-bottom: 0;
+}
+
+.sottotitolo {
+    color: gray;
+    font-size: 20px;
+}
+
+.blu {
+    color: #36b9eb;
+}
+
+#main-img {
+    margin-top: 30px;
+}
+
+.text-img {
+    color: #000000c9;
 }
