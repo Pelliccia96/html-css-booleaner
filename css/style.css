@@ -73,3 +73,11 @@ thead {
     background-image: url(../img/graph.jpg);
     margin-bottom: 50px;
 }
+
+table {
+    border-spacing: 0;
+}
+
+.fix-table {
+    width: 50%;
+}
